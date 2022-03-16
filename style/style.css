@@ -629,8 +629,8 @@ input.subscribe-input::placeholder{
     .box-info{
         max-width: 320px;
     }
-    }
-    @media (max-width:667px){
+}
+@media (max-width:667px){
         .header-top{
             justify-content: center;
         }
@@ -730,8 +730,8 @@ input.subscribe-input::placeholder{
         .center-item:last-child{
             padding-top: 30px;
         }
-    }
-    @media (max-width:360px){
+}
+@media (max-width:360px){
         .header-top{
             display: flex;
             flex-direction: column;
@@ -798,29 +798,29 @@ input.subscribe-input::placeholder{
         }
        .get-box{
         flex-direction: column;
-       }
+        }
        .get-item:nth-child(2) {
         padding: 30px 20px;
-    }
-    .get-item{
-        margin-bottom: 20px;
-    }
-    .get-item:last-child{
-        margin-bottom: 0;
-    }
-    .center-item{
-        margin-bottom: 40px;
-    }
-    .center-item:last-child{
-        margin-bottom: 0;
-        padding-top: 0;
-    }
-    .center-info{
-        font-size: 10px;
-    }
-    .bottom-info{
-        font-size: 12px;
-    }
+        }
+        .get-item{
+            margin-bottom: 20px;
+        }
+        .get-item:last-child{
+            margin-bottom: 0;
+        }
+        .center-item{
+            margin-bottom: 40px;
+        }
+        .center-item:last-child{
+            margin-bottom: 0;
+            padding-top: 0;
+        }
+        .center-info{
+            font-size: 10px;
+        }
+        .bottom-info{
+            font-size: 12px;
+        }
 
-    } 
+} 
            
